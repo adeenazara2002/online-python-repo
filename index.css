@@ -1,0 +1,224 @@
+.class1{
+    background-color:black;
+    color:grey;
+    padding-left: 250px;
+    padding-right: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    ;
+
+}
+.td1:hover{
+    color: white;
+}
+
+
+.subc2{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.class2{
+    background-color:silver;
+    color: black;
+    padding-top: 6px;
+    padding-bottom: 6px;  
+margin-left: 0%;
+margin-right: 0%;
+    
+}
+.box{
+    background-color:black;
+    background-image: url(applep.jpg);
+    width:1500px;
+    height:700px;
+    background-size: cover;
+    padding-top: 0%;
+background-repeat: no-repeat;}
+    
+    .overlay{
+        color: white;
+        width: 100%;
+        height:100%;
+        font-size: 30px;
+        display: flex;
+        justify-self:flex-start;
+        align-items:center;
+        flex-direction: column;
+        line-height: 0%;
+        margin: 0%;}
+    
+        .overlay1{
+            color: white;
+            width: 100%;
+            height:100%;
+            font-size: 20px;
+            display: flex;
+            justify-self:flex-start;
+            align-items:center;
+            flex-direction: column;
+            line-height: 0%;
+            
+        margin: 0%;}
+        .class3{
+            
+            background-image: url(iphone-12.jpg);
+            height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 3010px 736px;
+	text-align: center;
+	padding: 65px 20px;}
+    .subc3{
+        font-size: 35px;
+        margin: 0%;
+        line-height: 0%;
+    }
+.subc4{
+    font-size: 25px;
+    margin: 0%;
+        line-height: 0%; 
+}
+.subc5{
+    font-size: 21px;
+    color: gray;
+    margin: 0%;
+        line-height: 0%; 
+}
+.subc6 ul{
+    list-style: none;
+    display:inline-flex;
+    padding-right: 20px;   
+}
+.subc6 ul:hover{
+    color: blue;
+}
+ 
+
+ 
+ .class6{
+     background-image: url(pink14.jpg);
+     width: 2226px;
+     height: 1240px;
+     color: white;
+     text-align: left;
+     padding-left: 300px;
+     padding-top: 20px;
+     margin: 0%;
+     line-height: 0%;
+     font-size: 30px;
+ }
+ span{
+     font-size:25px ;
+     color: white;
+     text-align: left;
+     padding-left: 0px;
+     padding-top: 20px;
+     margin: 0%;
+     line-height: 0%;
+ }
+ .class7{
+     background-image: url(watchcopy2.jpg);
+     width: 2888px;
+     height:1100px;
+     
+ }
+ 
+ .subc7{
+     color: white;
+ }
+
+ .class8{
+    background-image: url(ipadcpy.jpg);
+    width: 1900px;
+    height: 1300px;
+}
+
+
+
+.sub8{
+    font-size: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    
+}
+.sub9{
+    font-size: 20px;
+    margin: 0%;
+    line-height: 0%;
+    font-weight: bold;
+}
+
+
+.class10{
+    background-image: url(laptop.jpg);
+    width:1350px;
+    height: 675px;
+}
+
+.sub10{
+    font-size: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 250px;
+}
+
+.sub11{
+    text-align: right;
+    padding-right: 130px;
+    padding-left:200px ;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 0%;
+}
+
+.sub12{
+text-align: right;
+    padding-right: 130px;
+    padding-left:200px ;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 0%;
+    padding-right: 25px;
+}
+
+.sub13{
+    text-align: right;
+    padding-right: 130px;
+    padding-left:200px ;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 0%;
+    padding-right: 59px;
+}
+
+
+.class11{
+    background-color: black;
+    color: white;
+    display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.sc11 ul{
+    list-style: none;
+    
+}
+.sc11{
+    padding-top: 10px;
+	position: relative;
+    z-index: 4;
+    text-decoration: none;
+}
+
+.sc11 ul li{
+    display:inline-block;
+	padding-right: 20px;
+}
+
+}
